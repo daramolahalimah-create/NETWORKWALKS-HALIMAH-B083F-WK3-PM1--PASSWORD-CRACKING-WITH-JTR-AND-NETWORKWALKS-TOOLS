@@ -39,4 +39,22 @@ This reports covers password cracking using JTR and NW tools (W3-PM1 & PM2). Bot
 
 ### $\textcolor{blue}{\text{4. Activities Conducted.}}$
 **4.1 Password Cracking With JTR**
--
+- I used **onlinehashcrack.com** to find the hash of the encrypted file. The result showed the hashed value of the file $pdf$4*4*128*-1028*1*16*ca7f72f11459cba469f1005a8765ed51*32*f32d8fa1bfbe2648226dffc39f7909ea0021446990b9e4114071a4d9104984c1*32*9322f50c29569712067a775264635e4954ccb1b99e209d664984054ffad30a6a for My locked pdf 1 )
+- I then selected and copied the hash value in my notepad, saved it as a text file with "hash 1.txt"
+- I added the hash file in the Open password file on Johnny and started new attack. The result revealed the password of the encrypted file as **good-luck**
+- I then used the password to open the file. The result showed a congratulatory page showing the file has been successfully opened.
+
+**4.2 Password Cracking with NW Tools**
+- I used **Networkwalks hash calculator** to extract the hash of the encryped file. The result showed the hashed values of the file (same as for JTR)
+- I then copied the full hash value and and ran it in networkwalk password cracker. The result revealed the password of the encrypted file (same as with JTR)
+- I then used the password to open the file. The result showed a congratulatory page showing the file has been successfully opened.
+
+---
+
+### $\textcolor{blue}{\text{5. Risk Analysis / Impact}}$
+
+| # | Risk | Evidence | Potential Impact | Risk Level |
+|---|---|---|---|---|
+|1| Weak passwords | Password hashes obtained were successfully tested with JTR and NW tools using appropriate wordlist | Attackers may recover valid credentials from obtained password hashes and use them to access the affected account or system | High |
+|2| Credential re-use risk | Assessed environment permitted passwords that did not meet recommended complexity and length requirements | Successful credential reuse can lead to unauthorized access to additional accounts or services | High |
+|3| Susceptibility to Dictionary Attacks | A dictionary/wordlist attack was performed against the collected passwords hashes, resulting in one or more successful matches | Attackers can gain access without exploiting a technical vulnerability in the application itself | Medium - High |
