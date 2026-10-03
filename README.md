@@ -22,4 +22,21 @@ I have performed these activities only on the systems & devices where I had secu
 ---
 
 ### $\textcolor{blue}{\text{2. Introduction.}}$
-This reports covers password cracking using JTR and NW tools 
+This reports covers password cracking using JTR and NW tools (W3-PM1 & PM2). Both modules show how attackers recover passwords from protected files by taking the hash out and running it through John the ripper and other tools (NW tools). All cracking was done on a windows PC with JTR Johnny & JTR john installed and with browser for the NW tools. 
+
+---
+
+### $\textcolor{blue}{\text{3. Tools Used.}}$
+|Tools | Purpose| 
+|---|---|
+| Windows | Operating system used for password cracking |
+| onlinehashcrack.com | hash website for hash extraction |
+| JTR John (CLI) & JTR Johnny (GUI)| crack all hashed files to reveal the passwords |
+| Networkwalks Hash Calculator | hash out all encrypted files |
+| Networkwalks Password Cracker | crack all hashed files to reveal the passwords|
+
+---
+
+### $\textcolor{blue}{\text{4. Activities Conducted.}}$
+**4.1 Password Cracking With JTR**
+-
