@@ -92,35 +92,24 @@ Through this practical lab exercise, I gained essential experience in credential
 
 <img width="1217" height="896" alt="Screenshot 2026-10-03 125917" src="https://github.com/user-attachments/assets/0a5f5d4e-96b9-403e-bcf5-7079dfce84fc" />
 
-<img width="1900" height="1003" alt="Screenshot 2026-09-28 152107" src="https://github.com/user-attachments/assets/94fd2c2c-a543-4000-af34-76876d0cf7b1" />
+<img width="1599" height="794" alt="1" src="https://github.com/user-attachments/assets/0a43812f-33df-4b86-b586-9105ecacf7a7" />
 
 
+<img width="1845" height="872" alt="Screenshot 2026-10-02 " src="https://github.com/user-attachments/assets/4ca58c1a-d7d1-4deb-b3c1-50492fd91336" />
 
+<img width="1478" height="866" alt="Screenshot 2026-10-03 131336" src="https://github.com/user-attachments/assets/52c046a5-5134-431f-a1e1-fe9c6e7b510b" />
 
+<img width="1371" height="732" alt="Screenshot 2026-10-03 131410" src="https://github.com/user-attachments/assets/fee469d1-912b-4294-9d4b-1110af4392c2" />
 
+<img width="1585" height="807" alt="Screenshot 2026-10-03 131451" src="https://github.com/user-attachments/assets/b153a0ce-1072-4adb-b6d7-bd825c9d865e" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="1585" height="863" alt="Screenshot 2026-10-03 132136" src="https://github.com/user-attachments/assets/6ae760ba-7116-42b9-9991-fb231ee9aea6" />
 
 
 **Author**
+
 **Halimah Daramola**
- | Cybersecurity Professional B082 |
+ | Cybersecurity Professional B083F |
  Linkedln: https://www.linkedin.com/in/halimah-daramola-63663a194?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 ---
