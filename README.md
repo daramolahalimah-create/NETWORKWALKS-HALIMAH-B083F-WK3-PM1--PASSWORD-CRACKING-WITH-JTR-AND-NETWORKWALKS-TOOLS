@@ -75,13 +75,41 @@ This reports covers password cracking using JTR and NW tools (W3-PM1 & PM2). Bot
 During Week 3 of the Cybersecurity & Ethical Hacking internship, I successfully conducted hands-on password cracking exercises using both John the Ripper (JTR) and Networkwalks tools. The successful recovery of plaintext passwords highlighted critical security vulnerabilities associated with weak password complexity and dict-attack susceptibility. Implementing the recommended password policies, modern hashing algorithms (such as Argon2id), and Multi-Factor Authentication (MFA) will significantly improve the overall security posture against credential-based attacks. 
 Through this practical lab exercise, I gained essential experience in credential analysis, extracting cryptographic hash signatures from protected files, and executing offline dictionary attacks. I also verified that different hash calculation and cracking utilities yield consistent, identical results when processing the same parameters. 
 
+
 ### $\textcolor{blue}{\text{8. Evidences Collected.}}$ 
 
- <img width="1688" height="855" alt="Screenshot 2026-10-03 123504" src="https://github.com/user-attachments/assets/3b73506d-c05a-48ee-8c0a-1edd051cf3ea" />
- 
-<img width="1273" height="864" alt="Screenshot 2026-10-03 123410" src="https://github.com/user-attachments/assets/a02ec4ec-b800-4284-b6df-a2291a5562e1" />
+<img width="1262" height="753" alt="Screenshot 2026-10-03 125358" src="https://github.com/user-attachments/assets/29c5612e-eb1f-4e34-9473-9aed6604cbef" />
 
-<img width="1259" height="836" alt="Screenshot 2026-10-03 123607" src="https://github.com/user-attachments/assets/49bc21b4-aab5-4789-ad13-1c71e1b9c67a" />
+<img width="1865" height="876" alt="Screenshot 2026-10-03 125416" src="https://github.com/user-attachments/assets/5c1c9b8f-3f70-4797-b2a9-4ede0d2c7dfb" />
+
+<img width="1419" height="562" alt="Screenshot 2026-10-03 125540" src="https://github.com/user-attachments/assets/dc80a6e5-df8b-4053-ae33-4e710aec98ab" />
+
+<img width="869" height="703" alt="Screenshot 2026-10-03 125712" src="https://github.com/user-attachments/assets/d5fd30af-1810-47c0-a00c-4dfb29062fd8" />
+
+<img width="930" height="736" alt="Screenshot 2026-10-03 125747" src="https://github.com/user-attachments/assets/8442b053-2a1a-452d-a978-05eaa04d732a" />
+
+<img width="856" height="689" alt="Screenshot 2026-10-03 125806" src="https://github.com/user-attachments/assets/4ef30d41-8516-4ce5-be19-43cef8218458" />
+
+<img width="1217" height="896" alt="Screenshot 2026-10-03 125917" src="https://github.com/user-attachments/assets/0a5f5d4e-96b9-403e-bcf5-7079dfce84fc" />
+
+<img width="1900" height="1003" alt="Screenshot 2026-09-28 152107" src="https://github.com/user-attachments/assets/94fd2c2c-a543-4000-af34-76876d0cf7b1" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
